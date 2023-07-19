@@ -1,4 +1,4 @@
-# javascript_challenge
+# Belly Button Challenge
 Module 14 Java Script challenge - Belly Button Biodiversity
 
 __Background__
